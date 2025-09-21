@@ -1,11 +1,12 @@
-## Hello 🌎, my name is Igor Tenorio!
+## Hello 🌎, i'm Igor Tenorio!
 
 ## 🚀 About Me  
 - 📍 Based in **Berlin, Germany**  
 - 💻 Software Engineer | Application Developer and Architect
 - 🌍 Experienced in **DevOps, CyberSec, Databases, Infrastructure, BPA & BI**  
 - 🏆 Awards: 2nd place NASA Apps Challenge Hackathon, Final Paper Award 2019  
-- 🔧 Strong problem-solver, business-oriented, and team player
+- ⚡ Strong problem-solver, business-oriented, and team player
+- 🔭 Currently working on my Portfolio
 
   
 ## 🌱 I’m currently learning
@@ -24,7 +25,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
